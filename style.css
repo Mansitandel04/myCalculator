@@ -54,7 +54,7 @@ form input.equal{
   
 }
 
-@media only screen and (max-width: 844)  {
+@media only screen and (max-width: 844) and (min-width: 200) {
   
   .calculator{
      padding: 10px;  
